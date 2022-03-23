@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 yo, soy batman
+=======
+Soy más de capitan america la verdad
+>>>>>>> c322ff385c9a035bbcf5d1557b13f96bdeecfb42
